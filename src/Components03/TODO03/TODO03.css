@@ -1,0 +1,47 @@
+.TODO02 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.TODO02Wrapper {
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+.IGroup {
+  margin-top: 5rem;
+  max-width: 40rem;
+}
+.ReactQuill {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 35px;
+}
+
+img,
+svg {
+  width: 100%;
+  height: auto;
+}
+.ToDO02Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  /* border-bottom: 3px solid #000000; */
+}
+.TODO02BTN {
+  width: 160px;
+  margin-top: 5rem;
+}
+.ToDO02Wrapper > p {
+  background-color: #e9e2e2dd;
+  width: auto;
+  height: auto;
+  padding: 10px 20px;
+  border-radius: 6px;
+}

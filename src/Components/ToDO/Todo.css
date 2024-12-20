@@ -1,0 +1,11 @@
+.Todo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Todo>h1{
+    margin-bottom: 5rem;
+}
+.inputContainer{
+    max-width: 40rem;
+}
